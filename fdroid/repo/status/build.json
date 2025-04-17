@@ -1,1 +1,1 @@
-{"commandLine":["/opt/homebrew/bin/fdroid build","--verbose","--all","--latest"],"endTimestamp":1743625476774,"failedBuilds":[],"startTimestamp":1743621876000,"subcommand":"build","successfulBuildIds":[]}
+{"commandLine":["/opt/homebrew/bin/fdroid build","--verbose","--all","--latest"],"endTimestamp":1744916356258,"failedBuilds":[],"startTimestamp":1744912705000,"subcommand":"build","successfulBuildIds":[["knackwurstking.pgvis",37]]}

@@ -1,0 +1,1 @@
+{"commandLine":["../_fdroidserver/fdroid build","--verbose","--all","--latest"],"endTimestamp":1746727224329,"failedBuilds":[],"startTimestamp":1746723456000,"subcommand":"build","successfulBuildIds":[["knackwurstking.shiftscheduler",16]]}
